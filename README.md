@@ -21,7 +21,7 @@ I'm a **passionate Electronics and Automation Technology student** at Colombo Un
 - **LinkedIn**: [linkedin.com/in/osama-kamith](https://linkedin.com)
 
 ## 🔗 Featured Projects
-- **Restaurant Management System**: [GitHub Repo](https://github.com/osama-cloud/resturant)
+- **Restaurant Management System**: [GitHub Repo](https://osama-cloud.github.io/resturant/)
   - A web application for managing restaurant orders and payments using React and Node.js.
 - **IoT Weather Monitoring System**: 
   - An IoT system using NodeMCU to monitor temperature and humidity, sending data to Google Sheets.
